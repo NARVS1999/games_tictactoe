@@ -1,7 +1,9 @@
 Code with emoji 😎💻
 
 name: Tic Tac Toe
+
 description: Two-player game placing Xs and Os in a 3x3 grid to get three in a row.
+
 features:
 - 3x3 grid
 - Player vs Player turns
