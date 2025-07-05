@@ -9,7 +9,7 @@ features:
 - Player vs Player turns
 - Win/draw detection
 
-Demo: 
+Demo: https://narvs1999.github.io/games_tictactoe/
 
 ![Demo Image](demo-image.png)
 
